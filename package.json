@@ -1,0 +1,33 @@
+{
+	"name": "ping-all",
+	"version": "0.1.0",
+	"description": "Ping all available IPs in the current network.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Philipp Widdra <philipp.widdra@gmail.com>",
+	"licenses": [
+  		{
+			"type": "MIT",
+			"url": "http://philippwiddra.mit-license.org/"
+		}
+	],
+	"dependencies": {
+		"ping": "~0.1.7"
+	},
+	"preferGlobal": true,
+	"bin": "./index.js",
+	"keywords": [
+		"ping",
+		"network",
+		"ip"
+	],
+	"bugs": "https://github.com/philippwiddra/ping-all/issues",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/philippwiddra/ping-all.git",
+		"web": "https://github.com/philippwiddra/ping-all"
+	},
+	"homepage": "https://github.com/philippwiddra/ping-all"
+}
