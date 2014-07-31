@@ -1,6 +1,6 @@
 {
 	"name": "ping-all",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Ping all available IPs in the current network.",
 	"main": "index.js",
 	"scripts": {
